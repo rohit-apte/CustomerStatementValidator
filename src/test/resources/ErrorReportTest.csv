@@ -1,0 +1,6 @@
+Reference,AccountNum,Error Type,File type,File Path,Description
+195446,NL74ABNA0248990274,BALANCE_MISMATCH,csv,src/test/resources/records.csvFlowers for Willem Dekker
+112806,NL69ABNA0433647324,DUPLICATE_RECORD,csv,src/test/resources/records.csvClothes for Richard de Vries
+112806,NL93ABNA0585619023,DUPLICATE_RECORD,csv,src/test/resources/records.csvTickets from Richard Bakker
+167875,NL93ABNA0585619023,BALANCE_MISMATCH,xml,D:\Rohit\WorkSpace\Rabobank\CustomerStatement\src\test\resources\records.xmlTickets from Erik de Vries
+165102,NL93ABNA0585619023,BALANCE_MISMATCH,xml,D:\Rohit\WorkSpace\Rabobank\CustomerStatement\src\test\resources\records.xmlTickets for Rik Theuﬂ
